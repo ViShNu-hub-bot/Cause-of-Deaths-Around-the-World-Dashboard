@@ -6,7 +6,7 @@ Welcome to the Cause of Deaths Around the World Dashboard project! This dashboar
 Access the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMjdmOWExYmEtZTE2ZS00NGQ4LWFmMmUtODIwNmE3Y2M2NzM3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
 
 ## Preview
-![sql Preview](![sql Preview](Screenshot%20(182).png))
+![sql Preview](Screenshot%20(182).png)
 
 ## Key Insights
 - **Line chart:** TotalDeaths by Year
